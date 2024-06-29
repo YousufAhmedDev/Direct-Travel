@@ -1,0 +1,20 @@
+{
+    "hello": "hi",
+    "$vuetify": {
+        "close": "Close",
+        "dataIterator": {
+            "noResultsText": "No matching records found",
+            "loadingText": "Loading items..."
+        },
+        "noDataText": "لا توجد خيارات",
+        "vSelect": {
+            "noDataText": "لا توجد خيارات",
+            "selectAll": "اختر الكل",
+            "deselectAll": "إلغاء اختيار الكل"
+        }
+    },
+    "labels": {
+        "language": "Select Language",
+        "search": "Search for products"
+    }
+}

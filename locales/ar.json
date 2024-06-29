@@ -1,0 +1,22 @@
+{
+  "hello": "مرحبا",
+  "Products":"منتجات",
+  "Add to cart":"أضف إلى السلة",
+  "$vuetify": {
+    "close": "إغلاق",
+    "dataIterator": {
+      "noResultsText": "لم يتم العثور على سجلات مطابقة",
+      "loadingText": "جار تحميل العناصر..."
+    },
+    "noDataText": "لا توجد خيارات",
+    "vSelect": {
+      "noDataText": "لا توجد خيارات",
+      "selectAll": "اختر الكل",
+      "deselectAll": "إلغاء اختيار الكل"
+    }
+  },
+  "labels": {
+    "language": "اختار اللغة",
+    "search": "ابحث عن المنتج"
+  }
+}
